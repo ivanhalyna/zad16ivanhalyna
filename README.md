@@ -1,1 +1,52 @@
-# zad16ivanhalyna
+
+<html>
+ <head>
+  <meta charset="utf-8">
+  <style>
+   
+  </style>
+</head>
+<body>
+ <table width=65% border="1" align="center">
+ <tr>
+  <td colspan="3" align=center>
+   <img src="halyna_gif.gif" border=1 align=center><br>
+   <p><b>Gdańsk, 12-02-2026</b></p>
+  </td>
+ </tr>
+  <tr>
+ <td colspan="3" align=center>
+ <h2>STOPKA-Ivan Halyna<br></h2>
+ <p><b>Gdańsk, 12-02-2026</b></p>
+ </td>
+ </tr>
+ <tr>
+  <td width=18% align="left">
+ <b>lewe menu</b>
+<ul>
+<li>
+<a href="https://zse.edu.gdansk.pl/pl" target="obszar_glowny">Strona ZSE   </a>
+</li>
+<li>
+<a href="https://www.kuratorium.gda.pl/" target="obszar_glowny">Kuratorium   </a>
+</li>
+</ul>
+ <td align=center>
+<iframe width=650 height=420 name="obszar_glowny" src="start.html" border="0"></iframe>
+</td>
+ <td width=18% align="center">
+<b>prawe menu</b>
+<map id="mapa_Halyna"> 
+            <area shape="poly" coords="26,64,50,17,75,64" href="plik.html" target="obszar_glowny">> 
+            <area shape="rect" coords="17,80,85,117" href="tabl.html" target="obszar_glowny"> 
+            <area shape="poly" coords="26,170,50,125,77,170" href="formularz.html" target="obszar_glowny"> 
+            <area shape="circle" coords="52,180,52,184" href="mailto:vangalpol@gmail.com"> 
+            <area shape="rect" coords="18,215,87,276" href="main.html" target="obszar_glowny"> 
+</map> 
+  <img src="mapa_halyna.gif" alt="tutaj wybieraj linki" usemap="#mapa_Halyna">
+</td>
+ </tr>
+
+</table>
+</body>
+</html># zad16ivanhalyna
