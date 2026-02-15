@@ -5,7 +5,6 @@
 
 </head>
 <body>
- <table width=65% border="1" align="center">
  <tr>
   <td colspan="3" align=center>
    <img src="halyna_gif.gif" border=1 align=center><br>
@@ -19,7 +18,6 @@
  </td>
  </tr>
  <tr>
-  <td width=18% align="left">
  <b>lewe menu</b>
 <ul>
 <li>
@@ -32,7 +30,6 @@
  <td align=center>
 <iframe width=650 height=420 name="obszar_glowny" src="start.html" border="0"></iframe>
 </td>
- <td width=18% align="center">
 <b>prawe menu</b>
 <map id="mapa_Halyna"> 
             <area shape="poly" coords="26,64,50,17,75,64" href="plik.html" target="obszar_glowny">> 
@@ -45,6 +42,6 @@
 </td>
  </tr>
 
-</table>
+
 </body>
-</html># zad16ivanhalyna
+</html>
