@@ -2,9 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <style>
-   
-  </style>
+
 </head>
 <body>
  <table width=65% border="1" align="center">
